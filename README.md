@@ -4,7 +4,9 @@
 2. User will get addmin dashbaord, 
 # Some Features
 1. Add to cart, upload product, delete product, search product,
-2. login, Logout, Account Create 
+2. login, Logout, Account Create
+   
+![Image Alt Text](https://raw.githubusercontent.com/ArmanA12/Dummy-e/main/emc.png)
 
 # Install & Run
 1. Download zip file and extract and open in vs code
